@@ -1,7 +1,7 @@
 # Akitaka Ito
 ## Career
 2019.4 ~ 2023.3 Keio University Faculty of Policy Management  
-2023.4 ~ Keio University Graduate school of Media & Governance
+2023.4 ~        Keio University Graduate school of Media & Governance
 
 ## Laboratory
 Masui Lab, Hagino & Hattori Lab
